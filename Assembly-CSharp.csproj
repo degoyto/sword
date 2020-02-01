@@ -54,6 +54,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\scripts\ItemBehaviour.cs" />
+     <Compile Include="Assets\scripts\ObjetoInterativo.cs" />
      <Compile Include="Assets\scripts\Platform.cs" />
      <Compile Include="Assets\scripts\PlayerBehaviourScript.cs" />
  <Reference Include="Unity.TextMeshPro.Editor">

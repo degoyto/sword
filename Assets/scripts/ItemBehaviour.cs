@@ -10,5 +10,9 @@ public class ItemBehaviour : MonoBehaviour
     public string descricao;
     public Sprite icone;
     
-    
+    public void pegaItem(){
+        Debug.Log("apagou");
+        Destroy(this.gameObject);
+        
+    }
 }
