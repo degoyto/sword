@@ -7,6 +7,8 @@ public class ItemBehaviour : MonoBehaviour
 
     public int id;
     public string nome;
+    public string descricao;
+    public Sprite icone;
     
     
 }
