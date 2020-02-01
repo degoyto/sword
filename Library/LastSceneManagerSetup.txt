@@ -1,8 +1,4 @@
 sceneSetups:
-<<<<<<< HEAD
 - path: Assets/Scenes/Cena2D.unity
-=======
-- path: Assets/Scenes/felipe.unity
->>>>>>> 8bd412c47dfd68a01420877815f736a61c390b87
   isLoaded: 1
   isActive: 1
